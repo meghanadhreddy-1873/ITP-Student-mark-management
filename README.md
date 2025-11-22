@@ -30,68 +30,68 @@ This project demonstrates key C programming concepts including **structures**, *
 ## 🛠️ **TECHNICAL REQUIREMENTS**
 
 ## **System Requirements**
--Operating System: **Windows / Linux / macOS**
--Terminal or Command Prompt
--At least **4 MB RAM**
--Minimal disk space for `marks.txt`
+- Operating System: **Windows / Linux / macOS**
+- Terminal or Command Prompt
+- At least **4 MB RAM**
+- Minimal disk space for `marks.txt`
 
 ## **Software Requirements**
--C Compiler: GCC / MinGW / Clang / MSVC
--Code Editor or IDE: VS Code, Code::Blocks, Dev-C++, etc.
--Optional: Make utility for Makefile builds
+- C Compiler: GCC / MinGW / Clang / MSVC
+- Code Editor or IDE: VS Code, Code::Blocks, Dev-C++, etc.
+- Optional: Make utility for Makefile builds
 
 ## **Programming Requirements**
--Language: **C**
-Standard Supported: **C89 / C99 / C11**
--Required Header Files:
--`stdio.h`
--`stdlib.h`
--`string.h`
+- Language: **C**
+- Standard Supported: **C89 / C99 / C11**
+- Required Header Files:
+- `stdio.h`
+- `stdlib.h`
+- `string.h`
 
 ## **File Handling**
--Requires Read/Write permissions
--Records stored in binary format (marks.txt)
--File auto-created if missing
+- Requires Read/Write permissions
+- Records stored in binary format (marks.txt)
+- File auto-created if missing
 
 ---
 
 ## 📌 **FUNCTIONAL REQUIREMENTS**
 
 ## **User Interface**
--Terminal-based CLI
--Clean, menu-driven navigation
--Validates all user inputs
+- Terminal-based CLI
+- Clean, menu-driven navigation
+- Validates all user inputs
 
 ---
 
 ## 🎓 **Student Marks Operations**
 
 ## ➕ **Add Student**
--Enter Roll No, Name, Subject Marks
--Stored in marks.txt
+- Enter Roll No, Name, Subject Marks
+- Stored in marks.txt
 
 ### 📋 **Display Students**
--Shows all student details in a formatted table
-Computes total marks and percentage 
+- Shows all student details in a formatted table
+- Computes total marks and percentage 
 
 ## 🔍** Search Student**
-Search using **unique Roll Number**
+- Search using **unique Roll Number**
 
 ## ✏️ **Update Student**
--Modify Name, Marks of any subject
+- Modify Name, Marks of any subject
 
 ## ❌ **Delete Student**
--Permanently remove a record
+- Permanently remove a record
 
 ### 🔧 **DATA MANAGEMENT**
--Binary file ensures fast and safe storage
--Secure updates and deletions
--Handles empty/missing file gracefully
+- Binary file ensures fast and safe storage
+- Secure updates and deletions
+- Handles empty/missing file gracefully
 
 ### 🔄 **PROGRAM FLOW**
--Interactive menu runs in a loop
--Clear success and error messages
--Exit option included
+- Interactive menu runs in a loop
+- Clear success and error messages
+- Exit option included
 
 ---
 
