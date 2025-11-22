@@ -1,6 +1,6 @@
 # 🎓 **STUDENT MARKS MANAGEMENT SYSTEM (C Programming)**
   
-## 📄 **ABSTRACT*
+## 📄 **ABSTRACT**
 
 The **Student Marks Management System** is a terminal-based application written in **C** that helps users efficiently manage student academic records. 
 It provides essential operations such as **adding**, **viewing**, **searching**,**updating**, and deleting student mark details.
